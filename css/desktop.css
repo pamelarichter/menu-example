@@ -1,0 +1,25 @@
+/* 600 px and over */
+
+@media only screen and (min-width: 600px) {
+  h3 {
+    font-size: 18px;
+  }
+
+  header {
+    background: burlywood;
+  }
+  .topnav a.active {
+    background-color: saddlebrown;
+    color: white;
+  }
+  }
+
+}
+
+/* 1200 px and over */
+
+@media only screen and (min-width: 1200px) {
+  h3 {
+    font-size: 28px;
+  }
+}
